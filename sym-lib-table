@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "RL78TrainingBoard")(type "KiCad")(uri "${KIPRJMOD}/RL78TrainingBoard.kicad_sym")(options "")(descr ""))
+)
