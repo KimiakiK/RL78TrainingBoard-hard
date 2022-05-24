@@ -19,3 +19,5 @@
 - [０．９６インチ　１２８×６４ドット有機ＥＬディスプレイ（ＯＬＥＤ）](https://akizukidenshi.com/catalog/g/gP-12031/)
 - [半固定ボリューム　TSR-3386K　１０ｋΩ](https://akizukidenshi.com/catalog/g/gP-06110/)
 - [半固定ボリューム　TSR-3323S　１０ｋΩ](https://akizukidenshi.com/catalog/g/gP-13739/)
+- [アナログジョイスティック](https://akizukidenshi.com/catalog/g/gP-04048/)
+- [ピンヘッダ　２×３　（６Ｐ）](https://akizukidenshi.com/catalog/g/gC-16883/)
