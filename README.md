@@ -1,26 +1,52 @@
 # RL78TrainingBoard-hard
 
 ## パーツリスト
-- [RL78/G13 R5F100LHAFA 192KB/16KB](https://www.marutsu.co.jp/pc/i/544428/)
-- [ＵＳＢシリアル変換ＩＣ　ＦＴ２３０ＸＳ](https://akizukidenshi.com/catalog/g/gI-13311/)
-- [ＲＳ２３２ＣインターフェースＩＣ　ＡＤＭ３２０２ＡＲＵＺ](https://akizukidenshi.com/catalog/g/gI-13704/)
-- [ＬＣＤキャラクタディスプレイモジュール（１６×２行バックライト付）](https://akizukidenshi.com/catalog/g/gP-00038/)
-- [1608角形チップ抵抗器 RK73B 27Ω 0.125W](https://www.marutsu.co.jp/pc/i/856811/)
-- [ボックスヘッダ　１４Ｐ（２×７）](https://akizukidenshi.com/catalog/g/gC-10901/)
-- [Ｄサブコネクタ　９Ｐ　オス　基板取付用　Ｌタイプ　インチネジ](https://akizukidenshi.com/catalog/g/gC-00644/)
-- [表面実装圧電サウンダ　ＰＫＭＣＳ０９０９Ｅ４０００－Ｒ１](https://akizukidenshi.com/catalog/g/gP-14238/)
-- [表面実装用スピーカー　ＵＭ１５１５ＩＡ０８５００８](https://akizukidenshi.com/catalog/g/gP-06707/)
-- [ＮｃｈパワーＭＯＳＦＥＴ　３０Ｖ５．７Ａ　ＡＯ３４００Ａ](https://akizukidenshi.com/catalog/g/gI-14653/)
-- [導電性高分子アルミ固体電解コンデンサー　ハイブリッド　１００μＦ２５Ｖ　ＰＦＶ](https://akizukidenshi.com/catalog/g/gP-14452/)
-- [チップ積層セラミックコンデンサー　０．０３９μＦ５０Ｖ　Ｂ　１６０８　（１００個入）](https://akizukidenshi.com/catalog/g/gP-05610/)
-- [チップ積層セラミックコンデンサー　１００μＦ１０Ｖ　Ｘ５Ｒ　３２１６　（１０個入）](https://akizukidenshi.com/catalog/g/gP-15633/)
-- [リセッタブルヒューズ　０．５Ａ　トリップ電流：１Ａ　耐圧：１３．２Ｖ　（４個入）](https://akizukidenshi.com/catalog/g/gP-15300/)
-- [表面実装型クリスタル（水晶発振子）　３２．７６８ｋＨｚ　（５個入）](https://akizukidenshi.com/catalog/g/gP-07195/)
-- [０．９６インチ　１２８×６４ドット有機ＥＬディスプレイ（ＯＬＥＤ）](https://akizukidenshi.com/catalog/g/gP-12031/)
-- [半固定ボリューム　TSR-3386K　１０ｋΩ](https://akizukidenshi.com/catalog/g/gP-06110/)
-- [半固定ボリューム　TSR-3323S　１０ｋΩ](https://akizukidenshi.com/catalog/g/gP-13739/)
-- [基板取付用ボリューム　つまみ付き　薄型　１０ｋΩＡ　２連](https://akizukidenshi.com/catalog/g/gP-14734/)
-- [アナログジョイスティック](https://akizukidenshi.com/catalog/g/gP-04048/)
-- [基板用小型３Ｐトグルスイッチ　１回路２接点](https://akizukidenshi.com/catalog/g/gP-12406/)
-- [超小型スライドスイッチ　２回路２接点　ＩＳ－２２３５（４個入）](https://akizukidenshi.com/catalog/g/gP-02627/)
-- [チェック端子（テストポイント）　ＴＥＳＴ－３４](https://akizukidenshi.com/catalog/g/gP-12217/)
+- [RL78/G13 R5F100LJAFA 256KB/20KB](https://www.marutsu.co.jp/pc/i/166424/) x 1
+- [1608角形チップ抵抗器 RK73B 27Ω 0.125W](https://www.marutsu.co.jp/pc/i/856811/) x 2
+
+- [RL78/G13 R5F100LJAFA 256KB/20KB](https://akizukidenshi.com/catalog/g/gI-06179/) x 1
+- [ＵＳＢシリアル変換ＩＣ　ＦＴ２３０ＸＳ](https://akizukidenshi.com/catalog/g/gI-13311/) x 1
+- [ＲＳ２３２ＣインターフェースＩＣ　ＡＤＭ３２０２ＡＲＵＺ](https://akizukidenshi.com/catalog/g/gI-13704/) x 1
+- [ＬＣＤキャラクタディスプレイモジュール（１６×２行バックライト付）](https://akizukidenshi.com/catalog/g/gP-00038/) x 1
+- [ボックスヘッダ　１４Ｐ（２×７）](https://akizukidenshi.com/catalog/g/gC-10901/) x 1
+- [ピンソケット（メス）　１×４（４Ｐ）](https://akizukidenshi.com/catalog/g/gC-10099/) x 2
+- [Ｄサブコネクタ　９Ｐ　オス　基板取付用　Ｌタイプ　インチネジ](https://akizukidenshi.com/catalog/g/gC-00644/) x 1
+- [表面実装圧電サウンダ　ＰＫＭＣＳ０９０９Ｅ４０００－Ｒ１](https://akizukidenshi.com/catalog/g/gP-14238/) x 1
+- [表面実装用スピーカー　ＵＭ１５１５ＩＡ０８５００８](https://akizukidenshi.com/catalog/g/gP-06707/) x 1
+- [ＮｃｈパワーＭＯＳＦＥＴ　３０Ｖ５．７Ａ　ＡＯ３４００Ａ](https://akizukidenshi.com/catalog/g/gI-14653/) x 1
+- [８ｃｈソースタイプＤＭＯＳトランジスタアレイ　ＴＢＤ６２７８３ＡＦＧ](https://akizukidenshi.com/catalog/g/gI-11082/) x 1
+- [オーディオアンプ HT82V739](http://akizukidenshi.com/catalog/g/gI-13356/) x 1
+- [ヤマハ音源ＩＣ（ＹＭＺ２９４）](https://akizukidenshi.com/catalog/g/gI-12141/) x 1
+- [チップ抵抗　１／１０Ｗ１００Ω　（５０００個入）](https://akizukidenshi.com/catalog/g/gR-14660/) x 2
+- [チップ抵抗　１／１０Ｗ１ｋΩ　（５０００個入）](https://akizukidenshi.com/catalog/g/gR-14122/) x 11
+- [チップ抵抗　１／１０Ｗ２．２ｋΩ　（５０００個入）](https://akizukidenshi.com/catalog/g/gR-16126/) x 3
+- [チップ抵抗　１／１０Ｗ１０ｋΩ　（５０００個入）](https://akizukidenshi.com/catalog/g/gR-15029/) x 13
+- [導電性高分子アルミ固体電解コンデンサー　ハイブリッド　１００μＦ２５Ｖ　ＰＦＶ](https://akizukidenshi.com/catalog/g/gP-14452/) x 1
+- [チップ積層セラミックコンデンサー　０．１μＦ５０Ｖ　Ｆ　１６０８　（４０個入）](https://akizukidenshi.com/catalog/g/gP-13374/) x 12
+- [チップ積層セラミックコンデンサー　０．０３９μＦ５０Ｖ　Ｂ　１６０８　（１００個入）](https://akizukidenshi.com/catalog/g/gP-05610/) x 2
+- [チップ積層セラミックコンデンサー　１００μＦ１０Ｖ　Ｘ５Ｒ　３２１６　（１０個入）](https://akizukidenshi.com/catalog/g/gP-15633/) x 1
+- [チップ積層セラミックコンデンサー　１０ｐＦ５０Ｖ　ＣＨ　１００５　（１００個入）](https://akizukidenshi.com/catalog/g/gP-13400/) x 2
+- [チップ積層セラミックコンデンサー　１μＦ２５Ｖ　Ｘ７Ｒ　１６０８　（２０個入）](https://akizukidenshi.com/catalog/g/gP-14526/) x 3
+- [黄緑色チップＬＥＤ　１６０８サイズ　ＳＭＬ－Ｅ１２Ｍ８ＷＴ８６　（１０個入）](https://akizukidenshi.com/catalog/g/gI-11877/) x 8
+- [青色チップＬＥＤ　１６０８サイズ　ＳＭＬＥ１３ＢＣ８ＴＴ８６　（１０個入）](https://akizukidenshi.com/catalog/g/gI-11881) x 1
+- [赤色チップＬＥＤ　１６０８　６３０ｎｍ　ＳＭＬ－Ｅ１２Ｖ８ＷＴ８６　（１０個入）](https://akizukidenshi.com/catalog/g/gI-11879) x 1
+- [リセッタブルヒューズ　０．５Ａ　トリップ電流：１Ａ　耐圧：１３．２Ｖ　（４個入）](https://akizukidenshi.com/catalog/g/gP-15300/) x 1
+- [チップインダクター（フェライトビーズ）　６０Ω［１６０８］　ムラタＢＬＭ１８Ｐ　（２５個入）](https://akizukidenshi.com/catalog/g/gP-04442/) x 1
+- [表面実装型クリスタル（水晶発振子）　３２．７６８ｋＨｚ　（５個入）](https://akizukidenshi.com/catalog/g/gP-07195/) x 1
+- [０．９６インチ　１２８×６４ドット有機ＥＬディスプレイ（ＯＬＥＤ）](https://akizukidenshi.com/catalog/g/gP-12031/) x 1
+- [タクトスイッチ（赤色）](https://akizukidenshi.com/catalog/g/gP-03646/) x 1
+- [タクトスイッチ（黄色）](https://akizukidenshi.com/catalog/g/gP-03650/) x 1
+- [タクトスイッチ（緑色）](https://akizukidenshi.com/catalog/g/gP-03651/) x 1
+- [タクトスイッチ（水色）](https://akizukidenshi.com/catalog/g/gP-03649/) x 1
+- [タクトスイッチ（黒色）](https://akizukidenshi.com/catalog/g/gP-03647/) x 1
+- [表面実装用タクトスイッチ　ＴＶＡＦ０６－Ａ０２０Ｂ－Ｒ　（５個入）](https://akizukidenshi.com/catalog/g/gP-14888/) x 1
+- [半固定ボリューム　TSR-3386K　１０ｋΩ](https://akizukidenshi.com/catalog/g/gP-06110/) x 1
+- [半固定ボリューム　TSR-3323S　１０ｋΩ](https://akizukidenshi.com/catalog/g/gP-13739/) x 1
+- [基板取付用ボリューム　つまみ付き　薄型　１０ｋΩＡ　２連](https://akizukidenshi.com/catalog/g/gP-14734/) x 1
+- [アナログジョイスティック](https://akizukidenshi.com/catalog/g/gP-04048/) x 1
+- [照度センサ（フォトトランジスタ）　５６０ｎｍ　ＮＪＬ７５０２Ｌ　（２個入）](https://akizukidenshi.com/catalog/g/gI-02325/) x 1
+- [高精度ＩＣ温度センサ　ＬＭ６０（ＳＯＴ－２３）　－２５～１２５℃　（５個入）](https://akizukidenshi.com/catalog/g/gI-02492/) x 1
+- [基板用小型３Ｐトグルスイッチ　１回路２接点](https://akizukidenshi.com/catalog/g/gP-12406/) x 1
+- [超小型スライドスイッチ　２回路２接点　ＩＳ－２２３５（４個入）](https://akizukidenshi.com/catalog/g/gP-02627/) x 1
+- [ヒロセ表面実装用ＵＳＢコネクタ・ミニＢ・メス（４個入）](https://akizukidenshi.com/catalog/g/gC-05690/) x 1
+- [チェック端子（テストポイント）　ＴＥＳＴ－３４](https://akizukidenshi.com/catalog/g/gP-12217/) x 1
